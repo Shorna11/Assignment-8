@@ -1,0 +1,42 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Sabikunnahar Shorna <br> shorna@uw.edu"
+date: "9 March 2021"
+output: ioslides_presentation
+---
+
+
+# Introduction
+
+## About me | Personal
+
+- born and raised in Bangladesh  
+- favorite food- "Biriyani"
+- favorite animal- cat
+
+## About me | Academic
+
+- Undergraduate institution: University of Dhaka 
+- Undergraduate major: Fisheries
+
+## About me | Things I’ve missed during the pandemic
+
+- some of my close relatives
+- friends
+- some of my favorite street foods
+
+# Data science
+
+## Introduction to Environmental Data Science | 3 things I enjoyed learning about
+
+1) GitHub
+2) Shiny apps
+3) R Markdown 
+
+## Introduction to Environmental Data Science | 3 things I’d like to learn more about
+1) more about creating website using R markdown
+2) Shiny apps
+3) Pgadmin
+
+## {data-background=mekong.jpeg data-background-size=cover}
